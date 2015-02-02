@@ -29,3 +29,7 @@
 [**Tails**](https://tails.boum.org/):  Operacinė sistema skirta užtikrinti privatumą ir anonimiškumą. 
 
 [**Tor**](https://www.torproject.org):  Anonimiškas naršymas.. `Gnu/Linux`, `Windows`,  `Mac`.
+
+###VPN - (Virtualus privatus tinklas)
+
+[Kurie vpn gerbia privatumą?](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)
