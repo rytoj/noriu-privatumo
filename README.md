@@ -1,7 +1,7 @@
 # Noriu privatumo
-Įrankiai privačiam naršymui
+Programos sklandžiam naršymui
 
-####Privatumas, Saugumas
+####Saugumo/privatumo 
 
 [**HTTPS Everywhere**](https://www.eff.org/https-everywhere):  Ryšio kodavimas. `Firefox`, `Chrome`,  `Opera`.
 
@@ -46,9 +46,13 @@ Chrome: [WebRTC Block](https://chrome.google.com/webstore/detail/webrtc-block/np
 
 ###Paieška
 
-[**Startpage**](https://startpage.com/)
+[**Startpage**](https://startpage.com/) - Nesaugo IP adresų, nekaupia paieškos rezultatų.
 
-[**Duckduckgo**](https://duckduckgo.com/)
+[**Duckduckgo**](https://duckduckgo.com/) - Nerenka jokios asmeninės informacijos.
 
+###Privatumas žurnalistams
 
+[How to Leak to The Intercept](https://firstlook.org/theintercept/2015/01/28/how-to-leak-to-the-intercept/)
+
+[Journalism student?](https://ssd.eff.org/en/playlist/journalism-student#playlist)
 
