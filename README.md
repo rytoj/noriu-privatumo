@@ -56,3 +56,12 @@ Chrome: [WebRTC Block](https://chrome.google.com/webstore/detail/webrtc-block/np
 
 [Journalism student?](https://ssd.eff.org/en/playlist/journalism-student#playlist)
 
+
+### Privatumas telefonams
+
+[**RedPhone**](https://ssd.eff.org/en/module/how-use-redphone-android#overlay=en/node/53/) `pokalbiams` `Android` 
+
+[**TextSecure**](https://ssd.eff.org/en/module/how-use-textsecure-android) `pranešimams` `Android` 
+
+[Bendravimo programėlių vertinimo lentelė](https://www.eff.org/secure-messaging-scorecard)
+
