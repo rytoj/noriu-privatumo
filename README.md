@@ -7,6 +7,8 @@ Programos sklandžiam naršymui
 
 [**Privacy Badger**](https://www.eff.org/privacybadge):  Sekimo įrankių blokavimas. `Firefox`, `Chrome`.
 
+[**Disconnect**](https://disconnect.me//):  Įvairių puslapių priedų blokavimas. `Firefox`, `Chrome`, `Opera`.
+
 [**NoScript**](https://noscript.net/):  JavaScript, Java, Flash ir kitų pasirinktų elementų blokavimas. `Firefox`.
 
 [**Better Privacy**](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/):  Flash sausainių trinimas (LSOs). `Firefox`, `Chrome`,  `Opera`.
