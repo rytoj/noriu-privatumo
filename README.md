@@ -17,7 +17,9 @@ Programos sklandžiam naršymui
 
 ####Reklamų blokavimas
 
-[**Adblock**](https://getadblock.com/):  Reklamų blokavimas. `Firefox`, `Chrome`.
+[**ublock**](https://chrismatic.io/ublock/):  Reklamų blokavimas. `Firefox`, `Chrome`, `Safari`.
+
+[**Adblock**](https://getadblock.com/):  Reklamų blokavimas. `Firefox`, `Chrome`, `Opera`, `Safari`.
 
 [**AdAway**](https://sufficientlysecure.org/index.php/adaway/):  Reklamų blokavimas. `Android`.
 
