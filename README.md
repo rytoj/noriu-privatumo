@@ -1,6 +1,3 @@
-# Noriu privatumo
-Programos sklandžiam naršymui
-
 ####Saugumo/privatumo įskiepiai
 
 [**HTTPS Everywhere**](https://www.eff.org/https-everywhere):  Ryšio kodavimas. `Firefox`, `Chrome`,  `Opera`.
