@@ -71,12 +71,12 @@ Programos sklandžiam naršymui
 [**OpenBSD**](http://www.openbsd.org/):
 
 
-### Kiti resursasi
+### Kiti resursai
 
 [VPN](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - (Virtualus privatus tinklas)
 
-[**Kurie vpn gerbia privatumą?**](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)
+[Vpn'ai gerbiantis privatumą?](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)
 
-[**Pasitikrint ar WebRTC nenutekina IP adreso**](https://diafygi.github.io/webrtc-ips/) [Git](https://github.com/diafygi/webrtc-ips)
+[Ar WebRTC nenutekina IP adreso](https://diafygi.github.io/webrtc-ips/) [Git](https://github.com/diafygi/webrtc-ips)
 
-[Bendravimo programėlių vertinimo lentelė](https://www.eff.org/secure-messaging-scorecard)
+[Bendravimo programėlių vertinimas](https://www.eff.org/secure-messaging-scorecard)
