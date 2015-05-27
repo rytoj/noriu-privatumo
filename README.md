@@ -45,13 +45,6 @@
 [**Duckduckgo**](https://duckduckgo.com/) - Nerenka jokios asmeninės informacijos.
 
 
-###Privatumas žurnalistams
-
-[How to Leak to The Intercept](https://firstlook.org/theintercept/2015/01/28/how-to-leak-to-the-intercept/)
-
-[Journalism student?](https://ssd.eff.org/en/playlist/journalism-student#playlist)
-
-
 ### Privatumas telefonams
 
 [**RedPhone**](https://ssd.eff.org/en/module/how-use-redphone-android#overlay=en/node/53/) `pokalbiams` `Android` 
@@ -77,3 +70,10 @@
 [Ar WebRTC nenutekina IP adreso](https://diafygi.github.io/webrtc-ips/) [Git](https://github.com/diafygi/webrtc-ips)
 
 [Bendravimo programėlių vertinimas](https://www.eff.org/secure-messaging-scorecard)
+
+#### Privatumas žurnalistams
+
+[How to Leak to The Intercept](https://firstlook.org/theintercept/2015/01/28/how-to-leak-to-the-intercept/)
+
+[Journalism student?](https://ssd.eff.org/en/playlist/journalism-student#playlist)
+
