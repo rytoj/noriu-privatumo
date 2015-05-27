@@ -1,7 +1,7 @@
 # Noriu privatumo
 Programos sklandžiam naršymui
 
-####Saugumo/privatumo 
+####Saugumo/privatumo įskiepiai
 
 [**HTTPS Everywhere**](https://www.eff.org/https-everywhere):  Ryšio kodavimas. `Firefox`, `Chrome`,  `Opera`.
 
@@ -25,34 +25,28 @@ Programos sklandžiam naršymui
 
 ####Pokalbiai
 
-[**Cryptocat**](https://crypto.cat/):  Pokalbių, duomenų dalinimosi šifravimas. `Firefox`, `Chrome`, ` Safari`, `Opera`, `OS X`, `iPhone`.
+[**Cryptocat**](https://crypto.cat/): 
+
+[**TorChat**](https://github.com/prof7bit/TorChat/downloads): 
+
+[**Jitsi**](https://jitsi.org/): 
 
 
-###Programinė įranga
+###Naršymas
 
-[**Tails**](https://tails.boum.org/):  Operacinė sistema skirta užtikrinti privatumą ir anonimiškumą. 
+[**Tor**](https://www.torproject.org):  Anoniminis naršymas.
 
-[**Tor**](https://www.torproject.org):  Anonimiškas naršymas.. `Gnu/Linux`, `Windows`,  `Mac`.
-
-###[VPN](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - (Virtualus privatus tinklas)
-
-[**Kurie vpn gerbia privatumą?**](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)
-
-
-[**Pasitikrint ar WebRTC nenutekina IP adreso**](https://diafygi.github.io/webrtc-ips/) [Git](https://github.com/diafygi/webrtc-ips)
-
-WebRTC išjungimas:
-
-Firefox: `about:confi`-> `media.peerconnection.enabled` pakeisti į `false`.
-
-Chrome: [WebRTC Block](https://chrome.google.com/webstore/detail/webrtc-block/nphkkbaidamjmhfanlpblblcadhfbkdm?hl=en)
+[**I2P**](https://geti2p.net/en/):  Anoniminis naršymas.
 
 
 ###Paieška
 
 [**Startpage**](https://startpage.com/) - Nesaugo IP adresų, nekaupia paieškos rezultatų.
 
+[**ixquick**](https://ixquick.com/) 
+
 [**Duckduckgo**](https://duckduckgo.com/) - Nerenka jokios asmeninės informacijos.
+
 
 ###Privatumas žurnalistams
 
@@ -67,5 +61,22 @@ Chrome: [WebRTC Block](https://chrome.google.com/webstore/detail/webrtc-block/np
 
 [**TextSecure**](https://ssd.eff.org/en/module/how-use-textsecure-android) `pranešimams` `Android` 
 
-[Bendravimo programėlių vertinimo lentelė](https://www.eff.org/secure-messaging-scorecard)
 
+### Operacinės sistemos
+
+[**Tails**](https://tails.boum.org/):  Operacinė sistema skirta užtikrinti privatumą ir anonimiškumą. 
+
+[**Qube OS**](https://www.qubes-os.org/): 
+
+[**OpenBSD**](http://www.openbsd.org/):
+
+
+### Kiti resursasi
+
+[VPN](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - (Virtualus privatus tinklas)
+
+[**Kurie vpn gerbia privatumą?**](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)
+
+[**Pasitikrint ar WebRTC nenutekina IP adreso**](https://diafygi.github.io/webrtc-ips/) [Git](https://github.com/diafygi/webrtc-ips)
+
+[Bendravimo programėlių vertinimo lentelė](https://www.eff.org/secure-messaging-scorecard)
