@@ -20,6 +20,8 @@
 
 [**AdAway**](https://sufficientlysecure.org/index.php/adaway/):  Reklamų blokavimas. `Android`.
 
+[**Adnauseam**](https://adnauseam.io/) Reklamų blokavimas + profilio sudarymo prevencija.
+
 ####Pokalbiai
 
 [**Cryptocat**](https://crypto.cat/): 
